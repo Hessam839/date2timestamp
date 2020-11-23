@@ -1,0 +1,4 @@
+github.com/mavihq/persian v0.0.0-20180720112018-07dac0a5e732 h1:aDTrUCLFUtKN+CdvsvQMm7hXnOan6MsY3GHQLkKtc14=
+github.com/mavihq/persian v0.0.0-20180720112018-07dac0a5e732/go.mod h1:JLh+/M/1DlhfTOPJRRygjs9r/t+lr7vPP3OpA+Wax/4=
+github.com/mostafah/go-jalali v0.0.0-20130806120429-c65c7f7a5ceb h1:Suh/JEYkihQLKMZhg8c8Hkb5e+oKMgukKWc/OBgy5Hs=
+github.com/mostafah/go-jalali v0.0.0-20130806120429-c65c7f7a5ceb/go.mod h1:r+vQlaixYWmX62hBPW1+sU2SjSZiZGfr5vEnj8rzplw=
